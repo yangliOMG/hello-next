@@ -3,6 +3,10 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
+/node_modules
+
+/.next
+
 # Folder config file
 Desktop.ini
 
